@@ -5,7 +5,7 @@
 
 ### :books: Here is I have to do now
 
-* 🧐 学习[vue3](https://staging-cn.vuejs.org/)以及实现部分[vue3新特性的原理](https://github.com/coderwei99/VUE-NEXT-3)
+* 🧐 学习[vue3](https://staging-cn.vuejs.org/)以及实现一个自己的[vue3](https://github.com/coderwei99/VUE-NEXT-3)
 * 🌱 学习node并做一点自己的项目
 * 🌱 学习一点前端工程化
 * 🏗️ 完成 [type-challenges](https://github.com/type-challenges/type-challenges)

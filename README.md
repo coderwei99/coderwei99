@@ -5,7 +5,7 @@
 
 ### :books: Here is I have to do now
 
-* 🧐 学习[vue3](https://staging-cn.vuejs.org/)以及实现一个[mini-vue](https://github.com/coderwei99/VUE-NEXT-3)
+* 🧐 学习[Vue3](https://staging-cn.vuejs.org/)以及实现一个[mini-vue](https://github.com/coderwei99/VUE-NEXT-3)
 * 🌱 学习node并做一点自己的项目
 * 🌱 学习一点前端工程化
 * 🏗️ 完成 [type-challenges](https://github.com/type-challenges/type-challenges)

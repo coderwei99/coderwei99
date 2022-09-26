@@ -17,7 +17,7 @@
 
 ### :triangular_flag_on_post: Achieve strategic results
 
-* 🥇 持续学习数据结构与算法 [My Leetcode home page](https://leetcode.cn/u/vGjeZy2m3h/)
+* 🥇 持续学习数据结构与算法 [My Leetcode home page](https://leetcode.cn/u/coderwei99/)
 * 🥈 参加统招专升本考试
 * 🥉 完成自己的 [vue-cli](https://github.com/coderwei99/my-cli)
 

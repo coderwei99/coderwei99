@@ -1,7 +1,7 @@
 <h2 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm coderwei</h2> 
 <h3 align="center">A front-end developer who likes Jay Chou</h3>
 
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=coderwei99&count_private=true&show_icons=true&theme=radical"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=coderwei99&count_private=true&show_icons=true&theme=radical"></img>
 
 ### :books: Here is I have to do now
 
@@ -9,7 +9,8 @@
 * 🌱 学习node并做一点自己的项目
 * 🌱 学习一点前端工程化
 * 🏗️ 完成 [type-challenges](https://github.com/type-challenges/type-challenges)
-* 📝 心有余力的话就准备研究生考试吧
+* 🎓 平心静气，务实JavaScript基础
+* 📝 学习一门新的语言(rust)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwei99&layout=compact"></img>

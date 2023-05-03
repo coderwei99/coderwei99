@@ -13,7 +13,7 @@
 * 📝 学习一门新的语言(rust)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwei99&layout=compact"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwei99&hide=html&layout=compact"></img>
 
 
 ### :triangular_flag_on_post: Achieve strategic results

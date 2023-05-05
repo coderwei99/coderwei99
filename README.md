@@ -10,7 +10,7 @@
 * 🌱 学习一点前端工程化
 * 🏗️ 完成 [type-challenges](https://github.com/type-challenges/type-challenges)
 * 🎓 平心静气，务实JavaScript基础
-* 📝 学习一门新的语言(rust)
+* 📝 学习一门新的语言 (rust)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwei99&hide=html&layout=compact"></img>
@@ -21,4 +21,5 @@
 * 🥇 持续学习数据结构与算法 [My Leetcode home page](https://leetcode.cn/u/coderwei99/)
 * 🥈 参加统招专升本考试
 * 🥉 完成自己的 [vue-cli](https://github.com/coderwei99/my-cli)
+* 🏆 给开源项目贡献PR [vueuse](https://github.com/vueuse/vueuse)
 

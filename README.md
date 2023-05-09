@@ -1,7 +1,7 @@
 <h2 align="center">Hi there <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" />, I'm coderwei</h2> 
 <h3 align="center">A front-end developer who likes Jay Chou</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coderwei99&count_private=true&show_icons=true&theme=radical"></img>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderwei99&count_private=true&show_icons=true&theme=radical"></img>
 
 ### :books: Here is I have to do now
 
@@ -13,7 +13,7 @@
 * 📝 学习一门新的语言 (rust)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwei99&hide=html&layout=compact"></img>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderwei99&hide=html&layout=compact"></img>
 
 
 ### :triangular_flag_on_post: Achieve strategic results
